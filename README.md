@@ -30,7 +30,7 @@ Python 3.10 or later recommended
 pip
 Tkinter support
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/inventory-management-system.git
+git clone (https://github.com/Kishwarsahil/Inventory-Management-using-Python)
 cd inventory-management-system
 Replace YOUR-USERNAME with your GitHub username.
 
